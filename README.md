@@ -1,4 +1,4 @@
-# case_study_1_dannysdiner
+# Case Study #1 Danny's Diner
 Solutions to Week 1 SQL Challenge - Case Study #1 Danny's Diner
 
 <a href="https://8weeksqlchallenge.com/case-study-1/">
